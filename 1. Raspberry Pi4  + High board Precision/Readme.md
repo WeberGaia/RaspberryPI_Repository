@@ -19,8 +19,8 @@ Abaixo, seguem as informações para o funcionamento do conversor ADS1256 e o Ra
 
 8- O código, no repositório acima, é direcionado para leitura analógica de um potenciometro externo ao do conversor ADS1256.
 <br>
-
-
+<br>
+<br>
 
 ## Repository dedicated to using the Raspberry Pi 4 with the "High precision AD/DA board" analog-digital converter
 
