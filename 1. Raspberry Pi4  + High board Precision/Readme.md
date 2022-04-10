@@ -34,7 +34,7 @@ Below, follow the information for the operation of the ADS1256 converter and the
 
 4- Install the [Language Libraries](https://www.waveshare.com/wiki/Libraries_Installation_for_RPi) for the best functioning of the code.<br>
 
-5- After carefully reading the necessary settings in step 3, access the [Github](https://github.com/waveshare/High-Precision-AD-DA-Board) recommended by the manufacturer and study in detail the language codes that find better.<br>
+5- After carefully reading the necessary settings in step 3, access the [Github]( https://github.com/waveshare/High-Precision-AD-DA-Board) recommended by the manufacturer and study in detail the language codes that find better.<br>
 <strong>NOTE: If you have the Raspberry PI, access only the folder directed to it. Jetson nano is an RPi equivalent device and not a library.</strong><br>
 
 6- When accessing the folders, check the ADS1256.py, main.py and config.py files.<br>
